@@ -1,0 +1,61 @@
+
+= Application de Prise de Note "SciNote"
+
+== Introduction
+
+L'objectif de ce document est de cadrer le projet de développement d'une application de prise de notes pour Desktop (client lourd). 
+Cette application vise à offrir une solution intuitive et rapide pour la prise de notes, en particulier pour les étudiants et les utilisateurs ayant un besoin spécifique lié à la prise de notes en environnement scientifique et éducatif.
+
+== Objectifs du Projet
+
+L'objectif principal de ce projet est de développer une application de bureau qui offre une expérience de prise de note intuitive et efficace pour les utilisateurs. Les objectifs spécifiques sont les suivants :
+
+1. Permettre aux utilisateurs de prendre des notes de manière rapide et fluide, en imitant l'expérience de la prise de notes sur papier.
+
+2. Faciliter l'intégration de formules scientifiques et de symboles dans les notes de manière intuitive.
+
+3. Organiser les notes en les regroupant dans des dossiers, offrant ainsi une gestion efficace de l'information.
+
+4. Permettre la génération automatique de graphiques et de représentations visuelles pour les fonctions mathématiques complexes.
+
+5. Offrir une fonctionnalité de dessin pour créer des schémas et des illustrations.
+
+== Public Cible
+
+Cette application est principalement destinée aux étudiants, en particulier à ceux qui suivent des cours scientifiques tels que les mathématiques, la statistique, etc. Cependant, l'application est également ouverte à toute personne qui souhaite prendre des notes de manière efficace, que ce soit pour un usage éducatif, professionnel ou personnel.
+
+== Fonctionnalités Clés
+
+Le projet impliquera les fonctionnalités clés suivantes :
+
+1. Création de pages pour prendre des notes, avec une mise en page intuitive et flexible.
+2. Intégration de fonctionnalités scientifiques pour l'écriture de formules et de symboles.
+3. Organisation des notes dans des dossiers.
+4. Génération automatique de graphiques à partir de fonctions mathématiques complexes.
+5. Fonction de dessin pour créer des schémas et des illustrations.
+
+== Méthodologie de Développement
+
+Nous prévoyons d'utiliser la méthode de développement agile pour ce projet, en itérant régulièrement pour ajouter des fonctionnalités, résoudre les problèmes et améliorer l'application.
+
+
+== Technologies Envisagées
+
+Les technologies envisagées pour la réalisation du projet sont :
+- Java pour le développement de l'application.
+- Utilisation de bibliothèques graphiques pour l'interface utilisateur.
+- Intégration de bibliothèques mathématiques pour les calculs.
+- Utilisation de Git et GitHub pour la gestion de version.
+
+== Livrables
+
+Les livrables attendus du projet sont les suivants :
+- Une application Desktop fonctionnelle.
+- Documentation pour les utilisateurs.
+- Code source sur GitHub.
+
+== Équipes
+
+- Aya Lakehal
+- Rayan Awasil
+- Dounya Alaoui
